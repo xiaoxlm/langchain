@@ -1,0 +1,7 @@
+.idea
+.vscode
+.cursorrules
+.cursorignore
+ai_key.yml
+__pycache__
+.ipynb_checkpoints
